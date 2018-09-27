@@ -1,2 +1,2 @@
-file 1 content 
+feature/xFeature file 1 content 
  # file 1 content was changed
